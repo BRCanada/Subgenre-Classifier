@@ -1,0 +1,2 @@
+track_name,artist,album,preview,artist_url,genres,file_location,spectrogram
+Annihilator,Kraign,Prologue to Motion,https://p.scdn.co/mp3-preview/0e5942de35b82115718af595eb8c5ed50ca643e2?cid=016bbd488622437fa723a88f3f51b789,https://api.spotify.com/v1/artists/0yZ8pTEiACSFoDNPASNENo,"['technical', 'progressive', 'metalcore']",../data/audio/Annihilator-Kraign.wav,../data/test_sample/Annihilator_Kraign_spectro.png
